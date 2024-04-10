@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ae1ee1c-4e0a-4ef2-a64e-00c464738fc8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/logs/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log.txt" afterDir="false" />
+    </list>
+    <list id="3eb5b708-c0e5-44bb-b20a-c99f9ef1c881" name="Changes by gabri" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Program Files\php-8.2.12\php.exe" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ZOkAqVU5e1BVlP4DiNtNrL6ptr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ae1ee1c-4e0a-4ef2-a64e-00c464738fc8" name="Changes" comment="" />
+      <created>1702300375072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702300375072</updated>
+      <workItem from="1702300376487" duration="2910000" />
+      <workItem from="1702303497980" duration="13649000" />
+      <workItem from="1702337579892" duration="7223000" />
+      <workItem from="1702388718405" duration="3000" />
+      <workItem from="1702388742396" duration="11823000" />
+      <workItem from="1702401612854" duration="2470000" />
+      <workItem from="1703118801626" duration="83000" />
+      <workItem from="1703118901388" duration="245000" />
+      <workItem from="1703119160388" duration="262000" />
+      <workItem from="1703119438750" duration="71000" />
+      <workItem from="1703119526667" duration="26158000" />
+      <workItem from="1703167647030" duration="5246000" />
+      <workItem from="1703264805589" duration="3758000" />
+      <workItem from="1704311347695" duration="20694000" />
+      <workItem from="1704347431066" duration="8280000" />
+      <workItem from="1704934741653" duration="817000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
