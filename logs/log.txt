@@ -1446,3 +1446,197 @@ Session Contents: Array
 )
 
 Código de Usuario: 1, Nombre de Persona: Gustavo
+Username: admin, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 1
+    [usuario] => admin
+)
+
+Código de Usuario: 1, Nombre de Persona: Gustavo
+Username: admin, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 1
+    [usuario] => admin
+)
+
+Código de Usuario: 1, Nombre de Persona: Gustavo
+Username: user, Password: 1234565
+SP Result: 
+Username: user, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 2
+    [usuario] => user
+)
+
+Código de Usuario: 2, Nombre de Persona: Gustavo
+Username: admin, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 1
+    [usuario] => admin
+)
+
+Código de Usuario: 1, Nombre de Persona: Gustavo
+Username: admin, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 1
+    [usuario] => admin
+)
+
+Código de Usuario: 1, Nombre de Persona: Gustavo
+Username: admin, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 1
+    [usuario] => admin
+)
+
+Código de Usuario: 1, Nombre de Persona: Gustavo
+Username: user, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 2
+    [usuario] => user
+)
+
+Código de Usuario: 2, Nombre de Persona: Gustavo
+Username: admin, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 1
+    [usuario] => admin
+)
+
+Código de Usuario: 1, Nombre de Persona: Gustavo
+Username: user, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 2
+    [usuario] => user
+)
+
+Código de Usuario: 2, Nombre de Persona: Gustavo
+Username: admin, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 1
+    [usuario] => admin
+)
+
+Código de Usuario: 1, Nombre de Persona: Gustavo
+Username: admin, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 1
+    [usuario] => admin
+)
+
+Código de Usuario: 1, Nombre de Persona: Gustavo
+Username: admin, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 1
+    [usuario] => admin
+)
+
+Código de Usuario: 1, Nombre de Persona: Gustavo
+Username: admin, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 1
+    [usuario] => admin
+)
+
+Código de Usuario: 1, Nombre de Persona: Gustavo
+Username: admin, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 1
+    [usuario] => admin
+)
+
+Código de Usuario: 1, Nombre de Persona: Gustavo
+Username: admin, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 1
+    [usuario] => admin
+)
+
+Código de Usuario: 1, Nombre de Persona: Gustavo
+Username: admin, Password: 123456
+SP Result: Array
+INFORMACION USUARIO Result: Array
+------- START LOGIN LOGS ---------
+Session Contents: Array
+(
+    [nombreDePersona] => Gustavo
+    [codigoUsuario] => 1
+    [usuario] => admin
+)
+
+Código de Usuario: 1, Nombre de Persona: Gustavo

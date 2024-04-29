@@ -5,7 +5,7 @@ define("USUARIO", "sa");
 // Contraseña para la conexión
 define("PASSWORD", "S0p0rt3");
 // Nombre de la BD
-define("DATABASE", "Gestion_Incidencia1");
+define("DATABASE", "Gestion_Incidencia");
 // Dirección del servidor de la base de datos
-define("SERVIDOR", "INF06\SQLEXPRESS");
+define("SERVIDOR", "SGIS05");
 
